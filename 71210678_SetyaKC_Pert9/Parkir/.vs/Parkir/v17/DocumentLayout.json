@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|d:\\progdesk\\71210678_setyakc_pert9\\parkir\\parkir\\formutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\formutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\parkir\\moduledb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\moduledb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\parkir\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\parkir\\formlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\formlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\parkir\\formlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\formlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\parkir\\laporanform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\laporanform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\parkir\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\parkir\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\parkir\\formutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\formutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\parkir\\langgananform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\langgananform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\parkir\\langgananform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\langgananform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\parkir\\dataset1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\dataset1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\parkir\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 307,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.vb",
+              "DocumentMoniker": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\Parkir\\LoginForm.vb",
+              "RelativeDocumentMoniker": "Parkir\\LoginForm.vb",
+              "ToolTip": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\Parkir\\LoginForm.vb",
+              "RelativeToolTip": "Parkir\\LoginForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T11:04:51.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.vb [Design]",
+              "DocumentMoniker": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\Parkir\\LoginForm.vb",
+              "RelativeDocumentMoniker": "Parkir\\LoginForm.vb",
+              "ToolTip": "D:\\parkir\\parkir\\LANJUTAN PARKIR\\Parkir\\Parkir\\LoginForm.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\parkir\\parkir\\LANJUTAN PARKIR\\Parkir\\Parkir\\LoginForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T11:04:49.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormUtama.vb",
+              "DocumentMoniker": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\Parkir\\FormUtama.vb",
+              "RelativeDocumentMoniker": "Parkir\\FormUtama.vb",
+              "ToolTip": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\Parkir\\FormUtama.vb",
+              "RelativeToolTip": "Parkir\\FormUtama.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T07:33:13.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "formLaporan.vb",
+              "DocumentMoniker": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\Parkir\\formLaporan.vb",
+              "RelativeDocumentMoniker": "Parkir\\formLaporan.vb",
+              "ToolTip": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\Parkir\\formLaporan.vb",
+              "RelativeToolTip": "Parkir\\formLaporan.vb",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCcAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-22T17:41:50.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Report1.rdlc [Design]",
+              "DocumentMoniker": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\Parkir\\Report1.rdlc",
+              "RelativeDocumentMoniker": "Parkir\\Report1.rdlc",
+              "ToolTip": "D:\\parkir\\parkir\\LANJUTAN PARKIR\\Parkir\\Parkir\\Report1.rdlc [Design]",
+              "RelativeToolTip": "..\\..\\..\\parkir\\parkir\\LANJUTAN PARKIR\\Parkir\\Parkir\\Report1.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-04-23T07:25:30.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "formLaporan.vb [Design]",
+              "DocumentMoniker": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\Parkir\\formLaporan.vb",
+              "RelativeDocumentMoniker": "Parkir\\formLaporan.vb",
+              "ToolTip": "D:\\parkir\\parkir\\LANJUTAN PARKIR\\Parkir\\Parkir\\formLaporan.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\parkir\\parkir\\LANJUTAN PARKIR\\Parkir\\Parkir\\formLaporan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-22T17:23:12.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModuleDB.vb",
+              "DocumentMoniker": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\Parkir\\ModuleDB.vb",
+              "RelativeDocumentMoniker": "Parkir\\ModuleDB.vb",
+              "ToolTip": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\Parkir\\ModuleDB.vb",
+              "RelativeToolTip": "Parkir\\ModuleDB.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T07:31:03.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LaporanForm.vb [Design]",
+              "DocumentMoniker": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\Parkir\\LaporanForm.vb",
+              "RelativeDocumentMoniker": "Parkir\\LaporanForm.vb",
+              "ToolTip": "D:\\parkir\\parkir\\LANJUTAN PARKIR\\Parkir\\Parkir\\LaporanForm.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\parkir\\parkir\\LANJUTAN PARKIR\\Parkir\\Parkir\\LaporanForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T11:15:46.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormUtama.vb [Design]",
+              "DocumentMoniker": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\Parkir\\FormUtama.vb",
+              "RelativeDocumentMoniker": "Parkir\\FormUtama.vb",
+              "ToolTip": "D:\\parkir\\parkir\\LANJUTAN PARKIR\\Parkir\\Parkir\\FormUtama.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\parkir\\parkir\\LANJUTAN PARKIR\\Parkir\\Parkir\\FormUtama.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T07:33:07.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataSet1.vb",
+              "DocumentMoniker": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\Parkir\\DataSet1.vb",
+              "RelativeDocumentMoniker": "Parkir\\DataSet1.vb",
+              "ToolTip": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\Parkir\\DataSet1.vb",
+              "RelativeToolTip": "Parkir\\DataSet1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T07:18:16.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LanggananForm.vb [Design]",
+              "DocumentMoniker": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\Parkir\\LanggananForm.vb",
+              "RelativeDocumentMoniker": "Parkir\\LanggananForm.vb",
+              "ToolTip": "D:\\parkir\\parkir\\LANJUTAN PARKIR\\Parkir\\Parkir\\LanggananForm.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\parkir\\parkir\\LANJUTAN PARKIR\\Parkir\\Parkir\\LanggananForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T10:00:35.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LanggananForm.vb",
+              "DocumentMoniker": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\Parkir\\LanggananForm.vb",
+              "RelativeDocumentMoniker": "Parkir\\LanggananForm.vb",
+              "ToolTip": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\Parkir\\LanggananForm.vb",
+              "RelativeToolTip": "Parkir\\LanggananForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T10:08:44.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\Parkir\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "Parkir\\DataSet1.xsd",
+              "ToolTip": "D:\\progdesk\\71210678_SetyaKC_Pert9\\Parkir\\Parkir\\DataSet1.xsd",
+              "RelativeToolTip": "Parkir\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-04-23T07:18:05.074Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
